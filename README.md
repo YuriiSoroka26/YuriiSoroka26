@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="//pixabay.com/gifs/walking-crow-pixel-bird-dark-11968/" alt="Pixel Crow Animation" width="200"/>
-</p>
 
 # 👋 Hey there! I'm Yurii
 
@@ -17,7 +14,7 @@
 ## 📫 Contact Me
 
 - Email: yuriisoroka26@gmail.com
-- Telegram: `@yourhandle`
+- Telegram: @Ssorokavorona26
 - 
 ---
 
