@@ -17,5 +17,4 @@
 - Telegram: @Ssorokavorona26
 - 
 ---
-
 _Thanks for stopping by! Feel free to check out my repos._
