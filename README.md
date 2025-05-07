@@ -8,7 +8,6 @@
 
 ## 📊 GitHub Stats
 
-![Yurii's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YuriiSoroka26&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriiSoroka26&layout=compact&theme=tokyonight)
 
