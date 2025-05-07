@@ -12,10 +12,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriiSoroka26&layout=compact&theme=tokyonight)
 
 
-## 📢 Contact Me
-
-- Email: yuriisoroka26@gmail.com
-- Telegram: @Ssorokavorona26
-
----
-_Thanks for stopping by! Feel free to check out my repos._
+## 📢 Let's collaborate and create something different 
