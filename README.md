@@ -14,8 +14,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriiSoroka26&layout=compact&theme=tokyonight)
 
-<!-- Optionally add this for contribution graph -->
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=YuriiSoroka26&theme=tokyo-night)
 
 ## 📢 Contact Me
 
