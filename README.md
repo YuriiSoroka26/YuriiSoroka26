@@ -9,7 +9,7 @@
 
 ## 📊 GitHub Stats
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/YuriiSoroka26/YuriiSoroka26&count_bg=%237B61FF&title_bg=%23545454&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/rankup-dev/awesome-project&count_bg=%237B61FF&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 📫 Contact Me
 R
