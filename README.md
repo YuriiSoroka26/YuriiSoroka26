@@ -9,7 +9,7 @@
 
 ## 📊 GitHub Stats
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/rankup-dev/awesome-project&count_bg=%237B61FF&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
+![GitHub repo views](https://img.shields.io/badge/dynamic/json?color=7B61FF&label=views&query=value&url=https://api.countapi.xyz/hit/rankup-dev-awesome-project/visits)
 
 ## 📫 Contact Me
 R
